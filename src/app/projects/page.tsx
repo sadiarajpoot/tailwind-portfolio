@@ -31,7 +31,7 @@ export default function Projects() {
                 <div className="border border-gray-300 shadow-2xl rounded-lg p-2 w-[290px] h-[385px] ml-9 transition-all duration-300 ease-in-out hover:scale-105">
                     <Image src={P2} alt="1" width={280} height={230} className="bg-slate-600" />
                     <h4 className="text-base font-bold text-gray-500 p-2 tracking-wide">Hijab Website</h4>
-                    <h4 className="text-sm font- text-black ml-2"> Our Hijab collection variety of fabrics, colors, and designs, carefully select every taste and occasion</h4>
+                    <h4 className="text-sm font- text-black ml-2"> Our Hijab collection variety of fabrics&quot; colors&quot; and designs&quot; carefully select every taste and occasion</h4>
                     <h3 className="flex justify-between p-2 text-sm text-gray-500 font-semibold">Rates ⭐⭐⭐⭐
                         <button className='mr-5 underline'><Link href="https://hijab-website.vercel.app/?vercelToolbarCode=vWHKyCXU3gVM6FK ">View</Link></button>
                     </h3>
@@ -43,7 +43,7 @@ export default function Projects() {
                 <div className="border border-gray-300 shadow-2xl rounded-lg p-2 w-[290px] h-[385px] ml-9 transition-all duration-300 ease-in-out hover:scale-105">
                     <Image src={P3} alt="1" width={280} height={230} className="bg-slate-600" />
                     <h4 className="text-base font-bold text-gray-500 p-2 tracking-wide">Static Resume</h4>
-                    <h4 className="text-sm font- text-black ml-2">A concise resume showcasing skills, experience, achievements for career advancement.</h4>
+                    <h4 className="text-sm font- text-black ml-2">A concise resume showcasing skills&quot; experience&quot; achievements for career advancement.</h4>
                     <h3 className="flex justify-between p-2 text-sm text-gray-500 font-semibold">Rates ⭐⭐⭐⭐
                         <button className='mr-5 underline'><Link href="https://milestone-1-2-zeta.vercel.app/ ">View</Link></button>
                     </h3>
@@ -54,7 +54,7 @@ export default function Projects() {
                 <div className="border border-gray-300 shadow-2xl rounded-lg p-2 w-[290px] h-[385px] ml-9 transition-all duration-300 ease-in-out hover:scale-105">
                     <Image src={P4} alt="1" width={280} height={230} className="bg-slate-600" />
                     <h4 className="text-base font-bold text-gray-500 p-2 tracking-wide">Dynamic Resume</h4>
-                    <h4 className="text-sm font- text-black ml-2">A dynamic resume highlights key skills, experiences,achievements tailored to each job opportunity.</h4>
+                    <h4 className="text-sm font- text-black ml-2">A dynamic resume highlights key skills&quot; experiences&quot; achievements tailored to each job opportunity.</h4>
                     <h3 className="flex justify-between p-2 text-sm text-gray-500 font-semibold">Rates ⭐⭐⭐⭐
                         <button className='mr-5 underline'><Link href="https://milestone-05-updated.vercel.app/">View</Link></button>
                     </h3>
@@ -64,7 +64,7 @@ export default function Projects() {
                 <div className="border border-gray-300 shadow-2xl rounded-lg p-2 w-[290px] h-[385px] ml-9 transition-all duration-300 ease-in-out hover:scale-105">
                     <Image src={P5} alt="1" width={280} height={230} className="bg-slate-600" />
                     <h4 className="text-base font-bold text-gray-500 p-2 tracking-wide">Food Website</h4>
-                    <h4 className="text-sm font- text-black ml-2">Food website showcasing popular dishes, ingredients, and recipes tailored to every preference.</h4>
+                    <h4 className="text-sm font- text-black ml-2">Food website showcasing popular dishes&quot; ingredients&quot; and recipes tailored to every preference.</h4>
                     <h3 className="flex justify-between p-2 text-sm text-gray-500 font-semibold">Rates ⭐⭐⭐⭐
                         <button className='mr-5 underline'><Link href="/">View</Link></button>
                     </h3>
@@ -75,7 +75,7 @@ export default function Projects() {
                 <div className="border border-gray-300 shadow-2xl rounded-lg p-2 w-[290px] h-[385px] ml-9 transition-all duration-300 ease-in-out hover:scale-105">
                     <Image src={P6} alt="1" width={280} height={230} className="bg-slate-600" />
                     <h4 className="text-base font-bold text-gray-500 p-2 tracking-wide">Travel Website</h4>
-                    <h4 className="text-sm font- text-black ml-2">Travel website featuring top destinations, experiences,tips tailored to every adventure and interest</h4>
+                    <h4 className="text-sm font- text-black ml-2">Travel website featuring top destinations&quot; experiences&quot; tips tailored to every adventure and interest</h4>
                     <h3 className="flex justify-between p-2 text-sm text-gray-500 font-semibold">Rates ⭐⭐⭐⭐
                         <button className='mr-5 underline'><Link href="/">View</Link></button>
                     </h3>

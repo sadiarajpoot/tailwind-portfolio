@@ -25,7 +25,7 @@ export const Hero = () => {
     <div className="text-[#000] text-4xl sm:text-5xl font-bold mb-4">
       <h2 className="flex flex-col items-center text-center">
       <span className="italic text-[#01455E] text-4xl sm:text-5xl font-extrabold leading-tightx">
-      <span className="animate-wave">Hey 👋</span> I'M
+      <span className="animate-wave">Hey 👋</span> I&apos;M
     </span>
         <span className="text-[#E1aD01] mt-3 sm:text-6xl">
           <span className="text-[#01455E]  sm:text-6xl font-extra ">Sadia</span> Khan
@@ -36,10 +36,10 @@ export const Hero = () => {
  
     <div className="flex justify-center sm:justify-start mb-8 px-4 sm:px-0">
       <h3 className="text-[#000] text-lg sm:text-xl font-medium tracking-wide leading-relaxed text-center sm:text-left max-w-3xl">
-        I'm a motivated beginner front-end developer with a strong grasp of
-        <strong className="italic text-[#01455E]"> HTML,</strong>
-        <strong className="italic text-[#01455E]"> CSS,</strong> and
-        <strong className="italic text-[#01455E]"> JavaScript</strong>. Passionate about creating clean, interactive web pages, always eager to learn new technologies like NextJS.
+        I&apos;m a motivated beginner front-end developer with a strong grasp of
+        <strong className="italic text-[#01455E]"> HTML&quot; </strong>
+        <strong className="italic text-[#01455E]"> CSS&quot;</strong> and
+        <strong className="italic text-[#01455E]"> JavaScript</strong>. Passionate about creating clean&quot;  interactive web pages&quot; always eager to learn new technologies like NextJS.
         I aim to combine design and functionality to deliver an excellent user experience.
       </h3>
     </div>

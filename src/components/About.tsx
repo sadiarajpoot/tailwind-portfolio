@@ -13,22 +13,22 @@ function About() {
         <div className=" hover:scale-105 transition-all duration-300 ease-in-out   flex flex-col items-center p-6 bg-white rounded-lg shadow-lg border border-gray-200">
           <MdSchool size="40px" className="text-[#E1aD01] mb-4" />
           <h3 className="text-2xl font-semibold text-[#01455E]">Education</h3>
-          <p className="text-gray-700 mt-2">I'm an Intermediate-level student with a passion for learning and exploring new ideas. Currently enhancing my skills in web development and programming. Always eager to take on challenges and grow in my knowledge.</p>
+          <p className="text-gray-700 mt-2">I&apos;m an Intermediate-level student with a passion for learning and exploring new ideas. Currently enhancing my skills in web development and programming. Always eager to take on challenges and grow in my knowledge.</p>
         </div>
         <div className=" hover:scale-105 transition-all duration-300 ease-in-out  flex flex-col items-center p-6 bg-white rounded-lg shadow-lg border border-gray-200">
           <MdWork size="40px" className="text-[#E1aD01] mb-4" />
           <h3 className="text-2xl font-semibold text-[#01455E]">Experience</h3>
-          <p className="text-gray-700 mt-2"> I'm diving into web development, building foundational skills in frontend and backend technologies. Eager to learn and grow in the field as a fresher with a keen interest in coding and technology..</p>
+          <p className="text-gray-700 mt-2"> I&apos;m diving into web development &quot;building foundational skills in frontend and backend technologies. Eager to learn and grow in the field as a fresher with a keen interest in coding and technology..</p>
         </div>
         <div className=" hover:scale-105 transition-all duration-300 ease-in-out  flex flex-col items-center p-6 bg-white rounded-lg shadow-lg border border-gray-200">
           <MdComputer size="40px" className="text-[#E1aD01] mb-4" />
           <h3 className="text-2xl font-semibold text-[#01455E]">Technology</h3>
-          <p className="text-gray-700 mt-2">"I am passionate about exploring new technologies and tools in the web development space. I enjoy working with programming languages like JavaScript, React, and Node.js. Constantly learning and staying updated with the latest tech trends keeps me motivated.</p>
+          <p className="text-gray-700 mt-2">"I am passionate about exploring new technologies and tools in the web development space. I enjoy working with programming languages like JavaScript &quot; React &quot; and Node.js. Constantly learning and staying updated with the latest tech trends keeps me motivated.</p>
         </div>
         <div className="hover:scale-105 transition-all duration-300 ease-in-out  flex flex-col items-center p-6 bg-white rounded-lg shadow-lg border border-gray-200">
           <MdOutlineRocket size="40px" className="text-[#E1aD01] mb-4" />
           <h3 className="text-2xl font-semibold text-[#01455E] ">Future Goals</h3>
-          <p className="text-gray-700 mt-2">My goal is to continuously learn and improve my skills in web development. I aim to contribute to impactful projects that solve real-world problems. By staying curious and dedicated, I hope to make a positive impact in the tech industry.</p>
+          <p className="text-gray-700 mt-2">My goal is to continuously learn and improve my skills in web development. I aim to contribute to impactful projects that solve real-world problems. By staying curious and dedicated&quot; I hope to make a positive impact in the tech industry.</p>
         </div>
       </div>
     </div>
