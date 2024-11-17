@@ -5,7 +5,7 @@ import P2 from "../../../public/images/hijab.webp"
 import P3 from "../../../public/images/static-resume.webp"
 import P4 from "../../../public/images/dynamic resume2.webp"
 import P5 from "../../../public/images/food website2.webp"
-import P6 from "../../../public/images/travel.webp"
+import P6 from "../../../public/images/treval.jpg"
 import Link from 'next/link'
 
 export default function Projects() {
@@ -75,7 +75,7 @@ export default function Projects() {
                 <div className="border border-gray-300 shadow-2xl rounded-lg p-2 w-[290px] h-[385px] ml-9 transition-all duration-300 ease-in-out hover:scale-105">
                     <Image src={P6} alt="1" width={280} height={230} className="bg-slate-600" />
                     <h4 className="text-base font-bold text-gray-500 p-2 tracking-wide">Travel Website</h4>
-                    <h4 className="text-sm font- text-black ml-2">Travel website featuring top destinations&quot; experiences&quot; tips tailored to every adventure and interest</h4>
+                    <h4 className="text-sm font- text-black ml-2">Travel website featuring top destinations&quot; experiences&quot; tips tailored to every adventure </h4>
                     <h3 className="flex justify-between p-2 text-sm text-gray-500 font-semibold">Rates ⭐⭐⭐⭐
                         <button className='mr-5 underline'><Link href="/">View</Link></button>
                     </h3>

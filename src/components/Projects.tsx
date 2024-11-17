@@ -5,7 +5,7 @@ import P2 from "../../../public/images/hijab.webp"
 import P3 from "../../../public/images/static-resume.webp"
 import P4 from "../../../public/images/dynamic resume2.webp"
 import P5 from "../../../public/images/food website2.webp"
-import P6 from "../../../public/images/travel.webp"
+import P6 from "../../public/images/treval.jpg"
 import Link from 'next/link'
 
 export default function Projects() {
