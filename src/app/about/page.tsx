@@ -1,4 +1,4 @@
-import Image from 'next/image';
+
 import { MdSchool} from 'react-icons/md';
 import {MdWork} from 'react-icons/md'
 import { MdOutlineRocket} from 'react-icons/md'
