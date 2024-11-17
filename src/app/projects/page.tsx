@@ -1,4 +1,4 @@
-import react from 'react'
+
 import Image from 'next/image'
 import P1 from '../../../public/images/resume-01-html-css.webp'
 import P2 from "../../../public/images/hijab.webp"

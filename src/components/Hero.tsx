@@ -1,7 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
 import HeroImage from '../../public/images/image.jpg'
-import Background from '../../public/images/bg2.avif'
 import Link from 'next/link'
 
 

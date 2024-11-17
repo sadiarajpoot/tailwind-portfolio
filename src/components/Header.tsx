@@ -3,7 +3,6 @@
 import Link from "next/link";
 import { AiOutlineMenu } from "react-icons/ai";
 import { useState } from "react";
-import Image from "next/image"
 
 
 const Navbar = () => {
